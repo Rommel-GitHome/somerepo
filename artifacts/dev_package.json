@@ -1,13 +1,13 @@
 {
-	"id": "e13ff9f6-5964-47b4-9829-27633406c0ed",
-	"createdAt": "2023-05-03T09:22:21.534Z",
-	"createdBy": "playwright",
+	"id": "a610896d-5047-ee11-b8f0-000d3ab7a7b7",
+	"createdAt": "2023-08-30T16:15:26.580Z",
+	"createdBy": "admin",
 	"git": {
 		"remote": "https://github.com/Rommel-GitHome/somerepo"
 	},
-	"name": "somerepo",
+	"name": "Test",
 	"description": null,
-	"ver": "23.5.3.927",
+	"ver": "23.8.31.1316",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
