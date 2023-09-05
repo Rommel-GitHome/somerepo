@@ -914,7 +914,7 @@
 					"fieldName": "Javascript",
 					"fieldParent": 99999,
 					"fieldType": "neptune.Script",
-					"script": "console.log(\"Test\");",
+					"script": "console.log(\"Sample\");",
 					"customComponent": false,
 					"request": [],
 					"response": [],
@@ -929,7 +929,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "23.9.4.2228",
+	"ver": "23.9.5.1358",
 	"application": "ticket_19027",
 	"title": "",
 	"description": "",
