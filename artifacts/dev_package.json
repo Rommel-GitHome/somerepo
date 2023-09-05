@@ -7,7 +7,7 @@
 	},
 	"name": "somerepo",
 	"description": "fgjdfgjfgj",
-	"ver": "23.9.4.2030",
+	"ver": "23.9.5.129",
 	"enableCICD": true,
 	"apps": [
 		{
