@@ -1,15 +1,28 @@
 {
-	"id": "a610896d-5047-ee11-b8f0-000d3ab7a7b7",
-	"createdAt": "2023-08-30T16:15:26.580Z",
-	"createdBy": "admin",
+	"id": "e13ff9f6-5964-47b4-9829-27633406c0ed",
+	"createdAt": "2023-05-03T09:22:21.534Z",
+	"createdBy": "playwright",
 	"git": {
 		"remote": "https://github.com/Rommel-GitHome/somerepo"
 	},
-	"name": "Test",
-	"description": null,
-	"ver": "23.8.31.1316",
+	"name": "somerepo",
+	"description": "fgjdfgjfgj",
+	"ver": "23.9.4.2030",
 	"enableCICD": true,
-	"apps": [],
+	"apps": [
+		{
+			"id": "da866170-ccbe-41d9-825a-49dc4729489a",
+			"application": "ticket_19790_rommel",
+			"title": "",
+			"description": ""
+		},
+		{
+			"id": "5d2e77e4-bc95-40fe-a9d1-63d036d061c2",
+			"application": "ticket_19027",
+			"title": "",
+			"description": ""
+		}
+	],
 	"api": [],
 	"odataSource": [],
 	"odataMock": [],
@@ -35,7 +48,6 @@
 	"wf_definition": [],
 	"connector": [],
 	"events": [],
-	"media_library": [],
 	"code_snippets": [],
 	"wf_determination": [],
 	"wf_taskaction": []
