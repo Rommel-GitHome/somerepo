@@ -1,0 +1,20 @@
+{
+	"id": "dc6336b1-f54b-ee11-9937-000d3adce320",
+	"createdAt": "2023-09-05T14:08:31.740Z",
+	"createdBy": "admin",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "test",
+	"ver": "23.9.5.148",
+	"description": null,
+	"content": "process.env.ENV_TYPE = \"DEV\";",
+	"useAsGlobalScript": false,
+	"transpiledContent": "file:///transpiledContent.ts",
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "typescript",
+	"jsscriptGroup": "dc1990aa-f54b-ee11-9937-000d3adce320",
+	"package": "e13ff9f6-5964-47b4-9829-27633406c0ed"
+}

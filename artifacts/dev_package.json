@@ -7,7 +7,7 @@
 	},
 	"name": "somerepo",
 	"description": "Sample description",
-	"ver": "23.9.5.1216",
+	"ver": "23.9.20.721",
 	"enableCICD": true,
 	"apps": [
 		{
@@ -27,8 +27,20 @@
 	"odataSource": [],
 	"odataMock": [],
 	"dictionary": [],
-	"jsclass": [],
-	"jsscript_group": [],
+	"jsclass": [
+		{
+			"id": "dc6336b1-f54b-ee11-9937-000d3adce320",
+			"name": "test",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "dc1990aa-f54b-ee11-9937-000d3adce320",
+			"name": "Project_Rommel",
+			"description": ""
+		}
+	],
 	"theme": [],
 	"pdf": [],
 	"rulesengine": [],
