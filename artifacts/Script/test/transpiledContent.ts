@@ -1,1 +1,1 @@
-process.env.ENV_TYPE = "DEV";
+process.env.ENV_TYPE = "DEVx";

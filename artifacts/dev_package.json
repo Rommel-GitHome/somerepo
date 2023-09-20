@@ -7,7 +7,7 @@
 	},
 	"name": "somerepo",
 	"description": "Sample description",
-	"ver": "23.9.20.721",
+	"ver": "23.9.20.724",
 	"enableCICD": true,
 	"apps": [
 		{
