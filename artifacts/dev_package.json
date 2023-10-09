@@ -52,13 +52,7 @@
 	"api_group": [],
 	"tile": [],
 	"category": [],
-	"launchpad": [
-		{
-			"id": "4d5ca961-797d-4bfd-88a6-e4d9881f15c6",
-			"name": "Launchpad 2561",
-			"description": null
-		}
-	],
+	"launchpad": [],
 	"certificates": [],
 	"role": [],
 	"systems": [],
