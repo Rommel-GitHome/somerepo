@@ -23,15 +23,7 @@
 					"customComponent": false,
 					"request": [],
 					"response": [],
-					"attributes": [
-						{
-							"attribute": "styleClass",
-							"grouping": "Properties",
-							"value": "sampleclass",
-							"script": "",
-							"translation": []
-						}
-					],
+					"attributes": [],
 					"data": [
 						{
 							"fieldNo": "4",
@@ -47,13 +39,6 @@
 									"attribute": "title",
 									"grouping": "Properties",
 									"value": "Full Screen",
-									"script": "",
-									"translation": []
-								},
-								{
-									"attribute": "styleClass",
-									"grouping": "Properties",
-									"value": "rommelClass",
 									"script": "",
 									"translation": []
 								}
@@ -364,7 +349,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "23.10.4.1615",
+	"ver": "23.9.4.2224",
 	"application": "ticket_19790_rommel",
 	"title": "",
 	"description": "",
