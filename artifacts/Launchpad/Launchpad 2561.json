@@ -1,0 +1,104 @@
+{
+	"id": "4d5ca961-797d-4bfd-88a6-e4d9881f15c6",
+	"createdAt": "2023-08-02T13:03:30.805Z",
+	"createdBy": "rommel@neptune-software.com",
+	"extUserRoles": [],
+	"extUserDepartments": [],
+	"catOrder": [
+		"10987806-4ddc-4509-82f0-d7b1d5db28d1"
+	],
+	"layout": [],
+	"config": {
+		"enhancement": [
+			"==OBJECT STRING==",
+			"sap.n.Enhancement.global = function () {",
+			"            console.log('Trigger Enhancement global');",
+			"            var s = \"Test\";\r",
+			"\r",
+			"// Sample comment",
+			"        };"
+		],
+		"autolock": 0,
+		"pincode": true,
+		"pincodeTries": 5,
+		"pincodeLength": 4,
+		"pincodeKeyIterations": 40000,
+		"languages": [
+			"LT",
+			"SR",
+			"DE"
+		],
+		"watson_enabled": false,
+		"sapcai_token": ""
+	},
+	"enhancement": [
+		{
+			"title": "Global Functions",
+			"name": "global",
+			"description": "Reuse global functions declared in this enhancement spot. Use the object sap.n.Enhancement.global for methods/data",
+			"param": "",
+			"sort": 10,
+			"group": "Common",
+			"content": [
+				"==OBJECT STRING==",
+				"var s = \"Test\";\r",
+				"\r",
+				"// Sample comment"
+			],
+			"active": true,
+			"disabled": false
+		}
+	],
+	"name": "Launchpad 2561",
+	"title": "Launchpad 2561",
+	"description": null,
+	"startApp": null,
+	"startWebApp": null,
+	"customLogo": null,
+	"launchpadApp": "planet9_launchpad_standard",
+	"hideSidemenu": false,
+	"ui5Version": "1.108",
+	"ui5Url": null,
+	"ui5Theme": "sap_horizon",
+	"header": null,
+	"customTheme": null,
+	"isExternal": null,
+	"emailPattern": null,
+	"loginApp": null,
+	"enableNotifications": false,
+	"firebaseProjectId": null,
+	"firebaseAppId": null,
+	"defaultLoginIDP": null,
+	"publicAccess": false,
+	"css": null,
+	"clientRequestTimeout": 120,
+	"limitWidth": false,
+	"searchBackgroundType": null,
+	"searchBackgroundColor": null,
+	"searchBackgroundShade": null,
+	"usedBackgroundType": null,
+	"usedBackgroundColor": null,
+	"usedBackgroundShade": null,
+	"searchEnableShadeCalc": null,
+	"usedEnableShadeCalc": null,
+	"enableTrace": false,
+	"ver": "23.9.18.1034",
+	"pwa_enable": false,
+	"pwa_customImageIos": null,
+	"pwa_customImageAndroidOld": null,
+	"pwa_customImageAndroidNew": null,
+	"pwa_displayMode": null,
+	"pwa_themeColor": "rgb(255,255,255)",
+	"pwa_backgroundColor": "rgb(255,255,255)",
+	"passwordResetEmail": null,
+	"activationCodeEmail": null,
+	"package": "e13ff9f6-5964-47b4-9829-27633406c0ed",
+	"cat": [
+		{
+			"id": "10987806-4ddc-4509-82f0-d7b1d5db28d1",
+			"name": "Tile Group 2561",
+			"title": "Tile Group 2561",
+			"ver": "23.9.6.834"
+		}
+	]
+}

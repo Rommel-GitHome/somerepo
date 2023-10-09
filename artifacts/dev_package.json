@@ -6,41 +6,44 @@
 		"remote": "https://github.com/Rommel-GitHome/somerepo"
 	},
 	"name": "somerepo",
-	"description": "Sample description",
-	"ver": "23.9.20.724",
+	"description": "Sample description - edited",
+	"ver": "23.9.20.739",
 	"enableCICD": true,
 	"apps": [
 		{
 			"id": "da866170-ccbe-41d9-825a-49dc4729489a",
 			"application": "ticket_19790_rommel",
 			"title": "",
-			"description": ""
+			"description": "",
+			"package": {
+				"id": "e13ff9f6-5964-47b4-9829-27633406c0ed"
+			}
+		},
+		{
+			"id": "aa03ad72-f2ae-4038-8996-17ce672c581d",
+			"application": "end2end_sample",
+			"title": "",
+			"description": "Sample app for the new create app function",
+			"package": {
+				"id": "e13ff9f6-5964-47b4-9829-27633406c0ed"
+			}
 		},
 		{
 			"id": "5d2e77e4-bc95-40fe-a9d1-63d036d061c2",
 			"application": "ticket_19027",
 			"title": "",
-			"description": ""
+			"description": "Test",
+			"package": {
+				"id": "e13ff9f6-5964-47b4-9829-27633406c0ed"
+			}
 		}
 	],
 	"api": [],
 	"odataSource": [],
 	"odataMock": [],
 	"dictionary": [],
-	"jsclass": [
-		{
-			"id": "dc6336b1-f54b-ee11-9937-000d3adce320",
-			"name": "test",
-			"description": null
-		}
-	],
-	"jsscript_group": [
-		{
-			"id": "dc1990aa-f54b-ee11-9937-000d3adce320",
-			"name": "Project_Rommel",
-			"description": ""
-		}
-	],
+	"jsclass": [],
+	"jsscript_group": [],
 	"theme": [],
 	"pdf": [],
 	"rulesengine": [],
@@ -49,7 +52,13 @@
 	"api_group": [],
 	"tile": [],
 	"category": [],
-	"launchpad": [],
+	"launchpad": [
+		{
+			"id": "4d5ca961-797d-4bfd-88a6-e4d9881f15c6",
+			"name": "Launchpad 2561",
+			"description": null
+		}
+	],
 	"certificates": [],
 	"role": [],
 	"systems": [],
@@ -58,7 +67,13 @@
 	"department": [],
 	"script_scheduler": [],
 	"wf_definition": [],
-	"connector": [],
+	"connector": [
+		{
+			"id": "1e3f6af9-b64e-4827-b817-c8cc230d3c1a",
+			"name": "Connector",
+			"description": null
+		}
+	],
 	"events": [],
 	"code_snippets": [],
 	"wf_determination": [],

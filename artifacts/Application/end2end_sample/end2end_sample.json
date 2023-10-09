@@ -1,32 +1,8 @@
 {
-	"id": "5d2e77e4-bc95-40fe-a9d1-63d036d061c2",
-	"createdAt": "2023-09-04T20:28:23.784Z",
-	"createdBy": "rommel",
+	"id": "aa03ad72-f2ae-4038-8996-17ce672c581d",
+	"createdAt": "2023-09-22T22:52:28.133Z",
+	"createdBy": "playwright",
 	"objects": [
-		{
-			"fieldNo": "6f2584ba-f501-4dbe-a256-8fbeb928db36",
-			"fieldName": "UploadSet",
-			"fieldParent": 0,
-			"fieldType": "sap.m.upload.UploadSet",
-			"script": "",
-			"customComponent": false,
-			"request": [],
-			"response": [],
-			"attributes": [],
-			"data": []
-		},
-		{
-			"fieldNo": "3e8652d9-9486-4170-f8ec-8a53cdf4f69d",
-			"fieldName": "MessageBox",
-			"fieldParent": 0,
-			"fieldType": "sap.m.MessageBox",
-			"script": "",
-			"customComponent": false,
-			"request": [],
-			"response": [],
-			"attributes": [],
-			"data": []
-		},
 		{
 			"fieldNo": "3",
 			"fieldName": "oToolPage",
@@ -38,18 +14,6 @@
 			"response": [],
 			"attributes": [],
 			"data": [
-				{
-					"fieldNo": "7c36672f-03ae-4f50-b4e7-f1e54a0c8870",
-					"fieldName": "GridContainer",
-					"fieldParent": "3",
-					"fieldType": "sap.f.GridContainer",
-					"script": "",
-					"customComponent": false,
-					"request": [],
-					"response": [],
-					"attributes": [],
-					"data": []
-				},
 				{
 					"fieldNo": "4",
 					"fieldName": "oToolHeader",
@@ -944,32 +908,7 @@
 		},
 		{
 			"fieldNo": 99999,
-			"data": [
-				{
-					"fieldNo": "17935c68-73ad-4048-a3a3-921d131593fe",
-					"fieldName": "Javascript",
-					"fieldParent": 99999,
-					"fieldType": "neptune.Script",
-					"script": "console.log(\"Test\");",
-					"customComponent": false,
-					"request": [],
-					"response": [],
-					"attributes": [],
-					"data": []
-				},
-				{
-					"fieldNo": "95b714b1-6d80-46a1-eb3e-f67825c61cf3",
-					"fieldName": "Javascript1",
-					"fieldParent": 99999,
-					"fieldType": "neptune.Script",
-					"script": "console.log(\"Sample\");",
-					"customComponent": false,
-					"request": [],
-					"response": [],
-					"attributes": [],
-					"data": []
-				}
-			]
+			"data": []
 		},
 		{
 			"fieldNo": 99998,
@@ -977,10 +916,10 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "23.9.5.2212",
-	"application": "ticket_19027",
+	"ver": "23.9.23.052",
+	"application": "end2end_sample",
 	"title": "",
-	"description": "Test",
+	"description": "Sample app for the new create app function",
 	"enableFileStorage": false,
 	"enableManifest": false,
 	"enableStylesheet": false,
@@ -991,13 +930,13 @@
 	"loadApplicationCode": null,
 	"appType": "A",
 	"ui5_m": true,
-	"ui5_f": true,
+	"ui5_f": false,
 	"ui5_table": false,
 	"ui5_tnt": true,
 	"ui5_uxap": false,
 	"ui5_chart": false,
 	"ui5_theme": "sap_horizon",
-	"ui5_version": "1.71",
+	"ui5_version": "",
 	"ui5_language": null,
 	"ui5_url": "",
 	"cus_theme": "",
