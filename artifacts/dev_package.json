@@ -6,8 +6,8 @@
 		"remote": "https://github.com/Rommel-GitHome/somerepo"
 	},
 	"name": "somerepo",
-	"description": "Sample description - edited 2",
-	"ver": "23.10.9.1020",
+	"description": "Sample description - edited",
+	"ver": "23.10.9.1026",
 	"enableCICD": true,
 	"apps": [
 		{
