@@ -7,7 +7,7 @@
 	},
 	"name": "somerepo",
 	"description": "Sample description - edited 2",
-	"ver": "23.11.23.1637",
+	"ver": "23.10.31.949",
 	"enableCICD": true,
 	"apps": [
 		{
@@ -16,7 +16,7 @@
 			"title": "",
 			"description": "",
 			"package": {
-				"id": "E13FF9F6-5964-47B4-9829-27633406C0ED"
+				"id": "e13ff9f6-5964-47b4-9829-27633406c0ed"
 			}
 		},
 		{
@@ -25,7 +25,16 @@
 			"title": "",
 			"description": "",
 			"package": {
-				"id": "E13FF9F6-5964-47B4-9829-27633406C0ED"
+				"id": "e13ff9f6-5964-47b4-9829-27633406c0ed"
+			}
+		},
+		{
+			"id": "ae8027db-20c5-4ae9-99f7-1396e30aa93d",
+			"application": "app_3124",
+			"title": "",
+			"description": "",
+			"package": {
+				"id": "e13ff9f6-5964-47b4-9829-27633406c0ed"
 			}
 		},
 		{
@@ -34,7 +43,7 @@
 			"title": "",
 			"description": "Sample app for the new create app function",
 			"package": {
-				"id": "E13FF9F6-5964-47B4-9829-27633406C0ED"
+				"id": "e13ff9f6-5964-47b4-9829-27633406c0ed"
 			}
 		},
 		{
@@ -43,7 +52,7 @@
 			"title": "",
 			"description": "Test",
 			"package": {
-				"id": "E13FF9F6-5964-47B4-9829-27633406C0ED"
+				"id": "e13ff9f6-5964-47b4-9829-27633406c0ed"
 			}
 		}
 	],
@@ -57,7 +66,13 @@
 	"pdf": [],
 	"rulesengine": [],
 	"reports": [],
-	"api_authentication": [],
+	"api_authentication": [
+		{
+			"id": "be8509cf-44b9-4369-b6a0-37608a8fabc8",
+			"name": "Playwright",
+			"description": null
+		}
+	],
 	"api_group": [],
 	"tile": [],
 	"category": [],

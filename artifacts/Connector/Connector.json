@@ -4,14 +4,74 @@
 	"createdBy": "playwright",
 	"settings": {
 		"tableid": "45ee2e40-328c-43da-b089-d5bc675fce49",
-		"hasDocumentation": false
+		"hasDocumentation": false,
+		"fieldCatalog": [
+			{
+				"name": "test_id1",
+				"label": "test_id",
+				"type": "uuid",
+				"usage": "OUTPUT",
+				"originalName": "test_id1"
+			},
+			{
+				"name": "mediumtext",
+				"label": "mediumtext",
+				"type": "mediumtext",
+				"usage": "BOTH",
+				"originalName": "mediumtext"
+			},
+			{
+				"name": "test",
+				"label": "test",
+				"type": "text",
+				"usage": "BOTH",
+				"originalName": "test"
+			},
+			{
+				"name": "updatedAt",
+				"label": "Updated At",
+				"type": "timestamp",
+				"usage": "BOTH",
+				"originalName": "updatedAt"
+			},
+			{
+				"name": "createdAt",
+				"label": "Created At",
+				"type": "timestamp",
+				"usage": "BOTH",
+				"originalName": "createdAt"
+			},
+			{
+				"name": "updatedBy",
+				"label": "Updated By",
+				"type": "text",
+				"usage": "BOTH",
+				"originalName": "updatedBy"
+			},
+			{
+				"name": "createdBy",
+				"label": "Created By",
+				"type": "text",
+				"usage": "BOTH",
+				"originalName": "createdBy"
+			},
+			{
+				"name": "dupid",
+				"label": "",
+				"type": "",
+				"items": [],
+				"usage": "OUTPUT",
+				"originalName": "test_id"
+			}
+		],
+		"overriddenFieldCatalog": true
 	},
 	"documentation": {},
 	"name": "Connector",
 	"description": null,
 	"group": null,
 	"type": "T",
-	"ver": "23.9.5.2059",
+	"ver": "23.10.10.1649",
 	"disabled": false,
 	"package": "e13ff9f6-5964-47b4-9829-27633406c0ed"
 }

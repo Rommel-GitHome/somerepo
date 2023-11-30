@@ -4,8 +4,157 @@
 	"createdBy": "rommel@neptune-software.com",
 	"objects": [
 		{
+			"fieldNo": "6b7cb3f6-0dac-457b-baab-938064380fa5",
+			"fieldName": "App",
+			"fieldParent": 0,
+			"fieldType": "sap.m.App",
+			"script": "",
+			"customComponent": false,
+			"request": [],
+			"response": [],
+			"attributes": [
+				{
+					"attribute": "defaultTransitionName",
+					"grouping": "Properties",
+					"value": "show",
+					"script": "",
+					"translation": []
+				}
+			],
+			"data": [
+				{
+					"fieldNo": "beb18bfe-7f49-4325-8127-3c54727bd2fa",
+					"fieldName": "Page",
+					"fieldParent": "6b7cb3f6-0dac-457b-baab-938064380fa5",
+					"fieldType": "sap.m.Page",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [
+						{
+							"attribute": "title",
+							"grouping": "Properties",
+							"value": "Page Title",
+							"script": "",
+							"translation": []
+						}
+					],
+					"data": [
+						{
+							"fieldNo": "e16d4ed2-cc4a-4dbc-c615-e868e5d297fb",
+							"fieldName": "Button",
+							"fieldParent": "beb18bfe-7f49-4325-8127-3c54727bd2fa",
+							"fieldType": "sap.m.Button",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "text",
+									"grouping": "Properties",
+									"value": "{test}",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
+						}
+					]
+				}
+			]
+		},
+		{
 			"fieldNo": 99999,
-			"data": []
+			"data": [
+				{
+					"fieldNo": "8695ef47-e3cc-4ce3-b3fc-3554da9f5242",
+					"fieldName": "API",
+					"fieldParent": 99999,
+					"fieldType": "neptune.folder",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				},
+				{
+					"fieldNo": "c5b7ca7b-a1d2-4d71-e538-8cedbc1c36de",
+					"fieldName": "Dialogs",
+					"fieldParent": 99999,
+					"fieldType": "neptune.folder",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				},
+				{
+					"fieldNo": "9724e51f-aea1-4605-f23b-f42cc8e7c8cf",
+					"fieldName": "Events",
+					"fieldParent": 99999,
+					"fieldType": "neptune.folder",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				},
+				{
+					"fieldNo": "d58aff51-49ee-4d55-c8af-6a3163e24f1d",
+					"fieldName": "Models",
+					"fieldParent": 99999,
+					"fieldType": "neptune.folder",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": [
+						{
+							"fieldNo": "dad62d48-c5b2-49cd-b388-b836a1b380ca",
+							"fieldName": "ModelArray",
+							"fieldParent": "d58aff51-49ee-4d55-c8af-6a3163e24f1d",
+							"fieldType": "neptune.model.array",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [],
+							"data": []
+						}
+					]
+				},
+				{
+					"fieldNo": "210420cf-8b54-4ae1-8afd-ae36630e07ae",
+					"fieldName": "Scripts",
+					"fieldParent": 99999,
+					"fieldType": "neptune.folder",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": [
+						{
+							"fieldNo": "9aaa0028-57a9-4738-e80f-01f3d55f08c0",
+							"fieldName": "Init",
+							"fieldParent": "210420cf-8b54-4ae1-8afd-ae36630e07ae",
+							"fieldType": "neptune.Script",
+							"script": "file://script/neptune.Script/Scripts/Init.js",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [],
+							"data": []
+						}
+					]
+				}
+			]
 		},
 		{
 			"fieldNo": 99998,
@@ -13,7 +162,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "23.10.9.1247",
+	"ver": "23.11.27.149",
 	"application": "rommel_floorplan",
 	"title": "",
 	"description": "",
@@ -26,7 +175,7 @@
 	"loadLaunchpadCode": null,
 	"loadApplicationCode": null,
 	"appType": "A",
-	"ui5_m": false,
+	"ui5_m": true,
 	"ui5_f": false,
 	"ui5_table": false,
 	"ui5_tnt": false,

@@ -1,0 +1,27 @@
+{
+	"id": "be8509cf-44b9-4369-b6a0-37608a8fabc8",
+	"createdAt": "2023-10-01T16:16:44.010Z",
+	"createdBy": "playwright",
+	"headers": [],
+	"details": {
+		"subject": {},
+		"headers": [],
+		"username": "playwright",
+		"password": "59352db4",
+		"secret": "40292aafed593d"
+	},
+	"azureRelayDetails": {
+		"ns": "",
+		"path": "",
+		"keyRule": "",
+		"key": "",
+		"apKey": ""
+	},
+	"name": "Playwright",
+	"description": null,
+	"type": "jwt",
+	"useCloudConnector": false,
+	"cloudConnectorType": null,
+	"ver": "23.10.9.1057",
+	"package": "e13ff9f6-5964-47b4-9829-27633406c0ed"
+}
