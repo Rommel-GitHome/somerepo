@@ -1,0 +1,27 @@
+{
+	"id": "b2c8474e-a106-4ac0-8743-2df63b91aa38",
+	"createdAt": "2023-12-19T21:21:24.000Z",
+	"createdBy": "admin",
+	"globalScripts": [],
+	"externalModules": [
+		{
+			"id": "27b7db4a-b2e5-45d5-9fcd-d1c09372c6e3",
+			"name": "ramda",
+			"contextname": "ramda",
+			"path": "./customnpm_local/node_modules/ramda"
+		}
+	],
+	"entitySets": [],
+	"apis": [],
+	"name": "20584",
+	"ver": "23.12.19.2222",
+	"description": null,
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": true,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "514d596e-7a42-421c-9914-29478c84b0fb",
+	"package": "e13ff9f6-5964-47b4-9829-27633406c0ed"
+}
