@@ -7,7 +7,7 @@
 	},
 	"name": "somerepo",
 	"description": "Sample description - edited 2",
-	"ver": "23.10.31.949",
+	"ver": "23.12.19.2329",
 	"enableCICD": true,
 	"apps": [
 		{
@@ -99,7 +99,13 @@
 	"category": [],
 	"launchpad": [],
 	"certificates": [],
-	"role": [],
+	"role": [
+		{
+			"id": "664864d3-cec8-4c1c-aed5-f220404cbe81",
+			"name": "Role Error",
+			"description": null
+		}
+	],
 	"systems": [],
 	"doc": [],
 	"wf_notifications": [],
