@@ -5,5 +5,6 @@
 	"name": "ticket_20584",
 	"description": "",
 	"ver": "23.12.19.2224",
-	"package": "e13ff9f6-5964-47b4-9829-27633406c0ed"
+	"package": "e13ff9f6-5964-47b4-9829-27633406c0ed",
+	"projectLogLevel": null
 }

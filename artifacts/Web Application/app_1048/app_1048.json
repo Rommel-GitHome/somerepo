@@ -1,0 +1,54 @@
+{
+	"id": "1c27f436-e5d5-4b60-b1c2-f7bd5245f57a",
+	"createdAt": "2023-10-01T18:29:57.844Z",
+	"createdBy": "playwright",
+	"settings": {
+		"entryPoint": {
+			"javascript": "/src/index.tsx",
+			"html": "/public/index.html"
+		},
+		"git": {
+			"repo": null,
+			"branch": null
+		},
+		"projectFolder": null,
+		"mainFilePath": "index.html"
+	},
+	"name": "app_1048",
+	"type": "react",
+	"description": "",
+	"onlyRuntime": false,
+	"package": "e13ff9f6-5964-47b4-9829-27633406c0ed",
+	"roles": [],
+	"runtime": {
+		"id": "1c27f436-e5d5-4b60-b1c2-f7bd5245f57a",
+		"createdAt": "2023-10-01T18:30:02.585Z",
+		"page": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><title>React Boilerplate</title><script defer=\"defer\" src=\"/webapp/app_1048/main.bundle.js\"></script></head><body><div id=\"root\"></div></body></html>",
+		"name": "app_1048",
+		"ver": null,
+		"publicAccess": false,
+		"assets": [
+			{
+				"runtimeId": "1c27f436-e5d5-4b60-b1c2-f7bd5245f57a",
+				"path": "/src/logo.svg",
+				"createdAt": "2023-10-01T18:50:57.742Z",
+				"updatedAt": "2023-10-01T18:50:57.746Z",
+				"source": "file:///src/logo.svg"
+			},
+			{
+				"runtimeId": "1c27f436-e5d5-4b60-b1c2-f7bd5245f57a",
+				"path": "/main.bundle.js",
+				"createdAt": "2023-10-01T18:50:57.742Z",
+				"updatedAt": "2023-10-01T18:50:57.746Z",
+				"source": "file:////main.bundle.js"
+			},
+			{
+				"runtimeId": "1c27f436-e5d5-4b60-b1c2-f7bd5245f57a",
+				"path": "/main.bundle.js.LICENSE.txt",
+				"createdAt": "2023-10-01T18:50:57.742Z",
+				"updatedAt": "2023-10-01T18:50:57.746Z",
+				"source": "file:////main.bundle.js.LICENSE.txt"
+			}
+		]
+	}
+}

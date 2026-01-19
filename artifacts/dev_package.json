@@ -3,69 +3,63 @@
 	"createdAt": "2023-05-03T09:22:21.534Z",
 	"createdBy": "playwright",
 	"git": {
-		"remote": "https://github.com/Rommel-GitHome/somerepo"
+		"remote": "https://github.com/Rommel-GitHome/somerepo",
+		"branch": "master"
 	},
-	"name": "somerepo",
+	"name": "Package 3455",
 	"description": "Sample description - edited 2",
-	"ver": "23.12.19.2329",
+	"ver": "26.01.19.1729",
 	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
+	"excludeTemplateFiles": true,
+	"roles": [],
 	"apps": [
 		{
 			"id": "da866170-ccbe-41d9-825a-49dc4729489a",
 			"application": "ticket_19790_rommel",
 			"title": "",
-			"description": "",
-			"package": {
-				"id": "e13ff9f6-5964-47b4-9829-27633406c0ed"
-			}
+			"description": ""
 		},
 		{
 			"id": "d1082918-9166-ee11-9937-000d3ade8894",
 			"application": "rommel_floorplan",
 			"title": "",
-			"description": "",
-			"package": {
-				"id": "e13ff9f6-5964-47b4-9829-27633406c0ed"
-			}
+			"description": ""
 		},
 		{
 			"id": "ae8027db-20c5-4ae9-99f7-1396e30aa93d",
 			"application": "app_3124",
 			"title": "",
-			"description": "",
-			"package": {
-				"id": "e13ff9f6-5964-47b4-9829-27633406c0ed"
-			}
+			"description": ""
 		},
 		{
 			"id": "aa03ad72-f2ae-4038-8996-17ce672c581d",
 			"application": "end2end_sample",
 			"title": "",
-			"description": "Sample app for the new create app function",
-			"package": {
-				"id": "e13ff9f6-5964-47b4-9829-27633406c0ed"
-			}
+			"description": "Sample app for the new create app function"
 		},
 		{
 			"id": "8f0c2699-9e8f-ee11-8925-0022489e264b",
 			"application": "app_3124_cloud",
 			"title": "",
-			"description": "",
-			"package": {
-				"id": "e13ff9f6-5964-47b4-9829-27633406c0ed"
-			}
+			"description": ""
 		},
 		{
 			"id": "5d2e77e4-bc95-40fe-a9d1-63d036d061c2",
 			"application": "ticket_19027",
 			"title": "",
-			"description": "Test",
-			"package": {
-				"id": "e13ff9f6-5964-47b4-9829-27633406c0ed"
-			}
+			"description": "Test"
 		}
 	],
-	"api": [],
+	"api": [
+		{
+			"id": "9899e429-948f-4898-8a41-cc1560226e44",
+			"name": "API city",
+			"description": null,
+			"apiGroup": null
+		}
+	],
 	"odataSource": [],
 	"odataMock": [],
 	"dictionary": [],
@@ -84,6 +78,7 @@
 		}
 	],
 	"theme": [],
+	"theme_generator": [],
 	"pdf": [],
 	"rulesengine": [],
 	"reports": [],
@@ -96,13 +91,16 @@
 	],
 	"api_group": [],
 	"tile": [],
+	"tile_layout": [],
 	"category": [],
+	"tilegroup_layout": [],
 	"launchpad": [],
+	"launchpad_layout": [],
 	"certificates": [],
 	"role": [
 		{
-			"id": "664864d3-cec8-4c1c-aed5-f220404cbe81",
-			"name": "Role Error",
+			"id": "02f2825a-a65a-4c4d-9a0b-88216fd8ab10",
+			"name": "Role 3187",
 			"description": null
 		}
 	],
@@ -119,8 +117,25 @@
 			"description": null
 		}
 	],
+	"i18n": [],
 	"events": [],
 	"code_snippets": [],
 	"wf_determination": [],
-	"wf_taskaction": []
+	"wf_taskaction": [],
+	"theme_ui5": [],
+	"webapp": [
+		{
+			"id": "1c27f436-e5d5-4b60-b1c2-f7bd5245f57a",
+			"name": "app_1048",
+			"description": ""
+		}
+	],
+	"ui5_control": [],
+	"ai_agent": [],
+	"ai_model": [],
+	"ai_prompt": [],
+	"ai_tool": [],
+	"ai_guardrail": [],
+	"path_rewrite": [],
+	"vault": []
 }

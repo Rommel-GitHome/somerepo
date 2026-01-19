@@ -24,10 +24,5 @@
 	"isTypescript": false,
 	"language": "javascript",
 	"jsscriptGroup": "514d596e-7a42-421c-9914-29478c84b0fb",
-	"package": "e13ff9f6-5964-47b4-9829-27633406c0ed",
-	"jsscriptGroupObj": {
-		"id": "514d596e-7a42-421c-9914-29478c84b0fb",
-		"name": "ticket_20584",
-		"ver": "23.12.19.2224"
-	}
+	"package": "e13ff9f6-5964-47b4-9829-27633406c0ed"
 }
